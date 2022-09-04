@@ -5,13 +5,13 @@ Just copy an xls/xlsx file, containing ips in the whois.py path (or any subfolde
 
 ## **Requirements**:
 
--pandas==1.4.3
+- pandas==1.4.3
 
--python-whois==0.8.0
+- python-whois==0.8.0
 
--requests==2.28.1
+- requests==2.28.1
 
--XlsxWriter==3.0.3
+- XlsxWriter==3.0.3
 
 
 

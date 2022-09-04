@@ -1,5 +1,5 @@
 # whois_batch
-Whois-Batch is a python-based program that search for xls/xlsx files in path recursively, which then scans for ipv4/ipv6 addresses and exports a xlsx file with their netname.
+Whois-Batch is a python-based program that searches for xls/xlsx files in path recursively, which then scans for ipv4/ipv6 addresses and exports a xlsx file with their netname.
 
 Just copy any xlsx/xls file in the program's path and execute python/python3 whois.py
 

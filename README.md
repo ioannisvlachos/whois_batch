@@ -17,9 +17,10 @@ Just copy any xlsx/xls file in the program's path and execute python/python3 who
 
 ## **Installation**:
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 ## **Use**:
 
-python whois.py
-python3 whois.py
+> python whois.py
+
+> python3 whois.py

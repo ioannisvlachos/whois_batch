@@ -16,6 +16,6 @@ Just copy an xls/xlsx file, containing ips in the whois.py path (or any subfolde
 pip install -r requirements.txt
 
 
-##**Use**:
+##**Use**##:
 
 python/python3 whois.py

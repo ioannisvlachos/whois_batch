@@ -3,7 +3,7 @@ Whois-Batch is a python-based program that search xls/xlsx files recursively for
 
 Just copy an xls/xlsx file, containing ips in the whois.py path (or any subfolder) and execute python/python3 whois.py
 
-##**Requirements**:
+## **Requirements**:
 
 -pandas==1.4.3
 -python-whois==0.8.0
@@ -11,11 +11,11 @@ Just copy an xls/xlsx file, containing ips in the whois.py path (or any subfolde
 -XlsxWriter==3.0.3
 
 
-##**Installation**:
+## **Installation**:
 
 pip install -r requirements.txt
 
 
-##**Use**##:
+## **Use**:
 
 python/python3 whois.py
